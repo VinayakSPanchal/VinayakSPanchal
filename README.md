@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [The Jpf Team](https://github.com/javapathfinder/jpf-core/wiki)
 
-- 📝 I regularly write articles on [vinayakpanchal.hashnode.dev](vinayakpanchal.hashnode.dev)
+- 📝 I regularly write articles on [https://hashnode.com/@vinayaklonewolf](https://hashnode.com/@vinayaklonewolf)
 
 - 📫 How to reach me **vinayakspanchal26@gmail.com**
 
