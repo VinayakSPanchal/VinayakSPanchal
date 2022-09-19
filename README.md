@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Panchal</h1>
 <h3 align="center">I am currently exploring various tech stacks</h3>
 
-<p align="left"> <a href="https://twitter.com/vinayakstwt" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakstwt?logo=twitter&style=for-the-badge" alt="vinayakstwt" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Full stack development**
