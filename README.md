@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm VINAYAK PANCHAL</h1>
-<h3 align="center">A passionate aspiring Android Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vinayak Panchal</h1>
+<h3 align="center">I am currently exploring various tech stacks</h3>
+
+<p align="left"> <a href="https://twitter.com/vinayakstwt" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakstwt?logo=twitter&style=for-the-badge" alt="vinayakstwt" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [The Jpf Team](https://github.com/javapathfinder/jpf-core/wiki)
+- 🤝 I’m looking for help with **Full stack development**
 
-- 📝 I regularly write articles on [https://hashnode.com/@vinayaklonewolf](https://hashnode.com/@vinayaklonewolf)
+- 📝 I regularly write articles on [https://vinayakpanchal.hashnode.dev/](https://vinayakpanchal.hashnode.dev/)
 
 - 📫 How to reach me **vinayakspanchal26@gmail.com**
 
+- ⚡ Fun fact **I wanted to join Army, got rejected and found coding my passion**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vinayakstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vinayakstwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-panchal-555541248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-panchal-555541248/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vinayak._.panchal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vinayak._.panchal/" height="30" width="40" /></a>
+<a href="https://twitter.com/vinayakstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayakstwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinayak-panchal-555541248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak-panchal-555541248" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
