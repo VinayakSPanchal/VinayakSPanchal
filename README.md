@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Panchal</h1>
-<h3 align="center">I am currently learning Full Stack Development</h3>
+<h3 align="center">Full Stack Development ███▒▒▒▒▒▒▒</h3>
 
 - 🌱 I’m currently learning **Java**
 
