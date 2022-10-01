@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vinayak Panchal</h1>
 <h3 align="center">Full Stack Development ███▒▒▒▒▒▒▒</h3>
 
-- 🌱 I’m currently learning **Java**
+## 🚀 About Me
+🌱 I’m currently learning Java
 
-- 🤝 I’m looking for help with **Full stack development**
+🤝 I’m looking for help with Full stack development
 
-- 📝 I regularly write articles on [https://vinayakpanchal.hashnode.dev/](https://vinayakpanchal.hashnode.dev/)
+📝 I regularly write articles on https://vinayakpanchal.hashnode.dev/
 
-- 📫 How to reach me **vinayakspanchal26@gmail.com**
+📫 How to reach me vinayakspanchal26@gmail.com
 
-- ⚡ Fun fact **I wanted to join Army, got rejected and found coding my passion**
+⚡ Fun fact : I wanted to join Army, got rejected and found coding my passion
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
