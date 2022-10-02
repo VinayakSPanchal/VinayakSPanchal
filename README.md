@@ -10,7 +10,7 @@
 
 📫 How to reach me vinayakspanchal26@gmail.com
 
-⚡ Fun fact : I wanted to join Army, got rejected and found coding my passion
+⚡ Fun fact : I wanted to join Indian Army, got rejected multiple times and later found coding my passion
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakspanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakspanchal" /> </p>
 
