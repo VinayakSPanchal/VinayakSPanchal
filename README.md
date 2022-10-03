@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Full stack development**
 
-- 📝 I regularly write articles on <a href = "https://vinayakpanchal.hashnode.dev/" target ="_blank"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@vinayakstwt" width = "90" height = "20" ></a>
+- 📝 I regularly write articles on <a href = "https://vinayakpanchal.hashnode.dev/" target ="_blank"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@vinayakstwt" width = "70" height = "20" ></a>
 
-- 📫 How to reach me **vinayakspanchal26@gmail.com**
+- 📫 How to reach me <a href = **vinayakspanchal26@gmail.com** ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="vinayakspanchal26@gmailcom" width = "70" height = "20" ></a>
 
 - ⚡ Fun fact **I wanted to join Army, got rejected and found coding my passion**
 
