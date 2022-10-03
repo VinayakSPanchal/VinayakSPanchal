@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakspanchal&" alt="vinayakspanchal" /></p>
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakspanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakspanchal" /> </span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakspanchal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vinayakspanchal" /> </span>
 <span align="left"> <a href="https://twitter.com/vinayakstwt" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakstwt?logo=twitter&style=for-the-badge" alt="vinayakstwt" /></a> </span>
 
 
