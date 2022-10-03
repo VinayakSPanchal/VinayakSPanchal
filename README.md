@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Full stack development**
 
-- 📝 I regularly write articles on <a href = "https://vinayakpanchal.hashnode.dev/" target ="blank"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@vinayakstwt"></a>
+- 📝 I regularly write articles on <a href = "https://vinayakpanchal.hashnode.dev/" target ="_blank"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@vinayakstwt" width = "90" height = "20" ></a>
 
 - 📫 How to reach me **vinayakspanchal26@gmail.com**
 
