@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ubuntu&size=35&duration=1700&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Vinayak" alt="Typing SVG" /></a>
+<h1> Hi👋, I'm Vinayak Panchal </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ubuntu&size=35&duration=3500&pause=1000&color=F7F7F7&width=435&lines=Wannabe+Full+Stack+Dev" alt="Typing SVG" /></a>
 
