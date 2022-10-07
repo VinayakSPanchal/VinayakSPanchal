@@ -3,9 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ubuntu&size=35&duration=3500&pause=1000&color=F7F7F7&width=435&lines=Wannabe+Full+Stack+Dev" alt="Typing SVG" /></a>
 # 🚀About Me:
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java🍵**
 
-- 🤝 I’m looking for help with **Full stack development**
+- 🤝 I’m looking for help with **Full stack development🌐**
 
 - 📝 I regularly write articles on <a href = "https://vinayakpanchal.hashnode.dev/" target ="_blank"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@vinayakstwt" width = "70" height = "20" ></a>
 
